@@ -1,0 +1,3 @@
+#!/bin/bash
+gcc -S $CFILE
+$ wc -l   2-assembler
